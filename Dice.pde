@@ -44,7 +44,7 @@ class Die
    noStroke();
    fill(0,50,100);
    rect(myX, myY, 50,50,10);
-   System.out.println(dRandom);
+
    if (dRandom == 1)
    {
      fill(150,150,0);
