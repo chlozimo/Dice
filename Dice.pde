@@ -73,7 +73,6 @@ class Die
 	  }
   if(dRandom == 5)
   {
-    System.out.println("hello");
     fill(150,150,0);
     ellipse(myX + 15, myY + 15,5,5);
     ellipse(myX + 35, myY + 15,5,5);
